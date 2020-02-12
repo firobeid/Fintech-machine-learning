@@ -8,10 +8,10 @@ My machine learning industry projects throughout the course in my Financial Engi
 - Priced each buckets relevant interest rate and expected Net Present Value per segment.
 
 ## Models Evalustion for Ordinal Bad Rates Score Ranking:
-![](images/LR_interest_rate_scoring.png)
+![](images/Model_bad_rates_scoring.png)
 
 ## Logistic Regression Models Interest Pricing per Bucket:
-![](images/Model_bad_rates_scoring.png)
+![](images/LR_interest_rate_scoring.png)
 
 ## Projected Revenue (Business) Model for Booking all Segments:
 ![](images/Revenue_model.png)
