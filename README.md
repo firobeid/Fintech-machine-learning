@@ -16,7 +16,7 @@ My machine learning industry projects throughout the course in my Financial Engi
 ## Projected Revenue (Business) Model for Booking all Segments:
 ![](images/Revenue_model.png)
 
-# Build Lookalike Logistic Regression Model (Keras and SKLearn
+## Build Lookalike Logistic Regression Model (Keras and SKLearn)
 
 While coding the neuaral netwrok model for loan prediction for later use to segment customer in to bad rate buckets,
 I thought of how a preceptron with sigmoid activation function and SKLearn's Logistic regression model can give
