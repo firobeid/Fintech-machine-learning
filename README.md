@@ -18,8 +18,13 @@ My machine learning industry projects throughout the course in my Financial Engi
 
 ## Build Lookalike Logistic Regression Model (Keras and SKLearn)
 
-While coding the neuaral netwrok model for loan prediction for later use to segment customer in to bad rate buckets,
+While tuning the neural netwrok model for loan prediction for later use to segment customer in to bad rate buckets,
 I thought of how a preceptron with sigmoid activation function and SKLearn's Logistic regression model can give
 same/approximately lookalike performance by understanding common hyperparameters.
 
 [For full metholodgy and brain storming discussion article!](https://medium.com/analytics-vidhya/build-lookalike-logistic-regression-model-with-sklearn-and-keras-2b03c540cdd5?source=friends_link&sk=3b0c501342c93d02481fa0162eec265e "Press for the Medium Featured Article")
+
+## Methods for Addressing Black Box Bias:
+[Interpretation Techniques](https://medium.com/analytics-vidhya/methods-to-interpreting-credit-model-predictions-8dbfb10db3d5?source=friends_link&sk=c84e0ad6c6b80ea140fe59bcdf857fe0)
+
+
